@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="efef3be3-a397-4c32-5ebf-5505a2006843"/>
+            <attribute id="Name" type="LSString" value="Dragonborn_children_AkELkA"/>
+            <attribute id="UUID" type="LSString" value="af412531-e92b-bc2e-5fb6-4b7149aac55f"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

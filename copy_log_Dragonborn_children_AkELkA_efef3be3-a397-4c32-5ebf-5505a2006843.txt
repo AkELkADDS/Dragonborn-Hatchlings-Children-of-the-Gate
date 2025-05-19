@@ -1,0 +1,307 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 
+   Mon 05/19/2025  7:19:29.49 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\thumbnail.PNG 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843: 3 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Assets\Characters\_Anims\Tieflings\_Children\TIF_CHD_Head_A_Rig\TIF_CHD_Head_A_Rig_ROM_01_Anim_test.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\0b711b69-08b4-6427-5ba8-0969cf8ae2c6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\1865504e-b107-0fcb-8ffc-cffb66ff0d23.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\20c8f2eb-dae8-4660-808e-f1020ce9f067.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\2fe3236a-57bd-9d84-3eb9-5e2fe0478409.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\329cc6bc-998f-0c8f-a320-0f150899a4f2.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\352299d3-7228-a82a-1f42-6d442fb1c292.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\3ff72592-4014-d95d-870f-233b69b34e21.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\49d12c0b-00da-30be-d598-fb20e32075c6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\8e166163-74b9-3b9c-7567-b8171f4d1e8c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\94eb1315-258b-999e-8193-0bdd9e2784ba.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\9efac9bd-9384-1982-dbb7-607b17cca765.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\a7a7c3e8-1e2f-9b75-2eb8-4c84a9bb4be2.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\b5fe91a7-ca28-eb79-f28a-e0e6de53a524.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\b8f3f816-e7b7-c341-84b7-062c5babac15.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\c6a9a435-9ae4-a3aa-629b-b129a71105c8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\da7d56e2-303b-b3e1-e73f-f32a623ae4bd.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\e1507646-2a87-fa75-edf0-6786dc30985b.lsf 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843: 18 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Assets\DGB_CHD\DGB_CHD_NKD_Body_A_EL_1.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Assets\DGB_CHD\DGB_CHD_NKD_Body_C_Tail_EL_1.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Assets\DGB_CHD\DGB_CHD_NKD_Head_D_EL_1.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843: 3 
+ 
+[LOG] Total files found across all folders: 26 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Projects\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 to Projects\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 
+[DEBUG] Using destination: Projects\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:19:34 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\
+     Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Projects\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     704	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\meta.lsx100%  
+	    New File  		   1.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\thumbnail.PNG100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    1.24 m    1.24 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 7:19:34 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Mods\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 to Mods\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 
+[DEBUG] Using destination: Mods\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:19:36 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\
+     Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Mods\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    5385	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\meta.lsx100%  
+	    New File  		   1.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\mod_publish_logo.png100%  
+	    New File  		     137	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         3         1         0         0         0
+   Files :         3         3         0         0         0         0
+   Bytes :    1.24 m    1.24 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           654872000 Bytes/sec.
+   Speed :           37472.076 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:19:36 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 3 
+[DEBUG] Successfully copied files: 3 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843: 
+      Total files: 3 
+      Copied successfully: 3 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 to Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 
+[DEBUG] Using destination: Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:19:38 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\
+     Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    2684	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\0b711b69-08b4-6427-5ba8-0969cf8ae2c6.lsf100%  
+	    New File  		    8906	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\1865504e-b107-0fcb-8ffc-cffb66ff0d23.lsf100%  
+	    New File  		    7593	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\20c8f2eb-dae8-4660-808e-f1020ce9f067.lsf100%  
+	    New File  		    8721	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\2fe3236a-57bd-9d84-3eb9-5e2fe0478409.lsf100%  
+	    New File  		    3634	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\329cc6bc-998f-0c8f-a320-0f150899a4f2.lsf100%  
+	    New File  		    5314	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\352299d3-7228-a82a-1f42-6d442fb1c292.lsf100%  
+	    New File  		    2424	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\3ff72592-4014-d95d-870f-233b69b34e21.lsf100%  
+	    New File  		    8109	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\49d12c0b-00da-30be-d598-fb20e32075c6.lsf100%  
+	    New File  		    5437	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\8e166163-74b9-3b9c-7567-b8171f4d1e8c.lsf100%  
+	    New File  		    6981	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\94eb1315-258b-999e-8193-0bdd9e2784ba.lsf100%  
+	    New File  		    2424	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\9efac9bd-9384-1982-dbb7-607b17cca765.lsf100%  
+	    New File  		    8089	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\a7a7c3e8-1e2f-9b75-2eb8-4c84a9bb4be2.lsf100%  
+	    New File  		    8760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\b5fe91a7-ca28-eb79-f28a-e0e6de53a524.lsf100%  
+	    New File  		    2684	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\b8f3f816-e7b7-c341-84b7-062c5babac15.lsf100%  
+	    New File  		    2152	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\c6a9a435-9ae4-a3aa-629b-b129a71105c8.lsf100%  
+	    New File  		    3634	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\da7d56e2-303b-b3e1-e73f-f32a623ae4bd.lsf100%  
+	    New File  		    6443	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\e1507646-2a87-fa75-edf0-6786dc30985b.lsf100%  
+	    New File  		  197444	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Assets\Characters\_Anims\Tieflings\_Children\TIF_CHD_Head_A_Rig\TIF_CHD_Head_A_Rig_ROM_01_Anim_test.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         9         9         1         0         0         0
+   Files :        18        18         0         0         0         0
+   Bytes :   284.6 k   284.6 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            48572166 Bytes/sec.
+   Speed :            2779.321 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:19:38 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 18 
+[DEBUG] Successfully copied files: 18 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843: 
+      Total files: 18 
+      Copied successfully: 18 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 to "Generated\Public"\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 
+[DEBUG] Using destination: Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:19:40 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\
+     Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  209592	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Assets\DGB_CHD\DGB_CHD_NKD_Body_A_EL_1.GR2100%  
+	    New File  		  141816	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Assets\DGB_CHD\DGB_CHD_NKD_Body_C_Tail_EL_1.GR2100%  
+	    New File  		  659948	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Assets\DGB_CHD\DGB_CHD_NKD_Head_D_EL_1.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         3         1         0         0         0
+   Files :         3         3         0         0         0         0
+   Bytes :   987.6 k   987.6 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           505678000 Bytes/sec.
+   Speed :           28935.127 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:19:40 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 3 
+[DEBUG] Successfully copied files: 3 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843: 
+      Total files: 3 
+      Copied successfully: 3 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 3 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 18 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 3 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 26 
+[SUMMARY] Total files successfully copied: 52 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
