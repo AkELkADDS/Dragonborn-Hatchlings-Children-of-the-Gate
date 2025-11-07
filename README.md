@@ -1,9 +1,9 @@
-Clawstep - Dragonborn female body
+Dragonborn Hatchlings - Children of the Gate
 
-[ModIO](https://mod.io/g/baldursgate3/m/dragonborn-body-replacer-dragonborn-cc#description)
-[Nexus](https://www.nexusmods.com/baldursgate3/mods/16384?tab=description)
+[ModIO](https://mod.io/g/baldursgate3/m/dragonborn-children-akelka#description)
+[Nexus](https://www.nexusmods.com/baldursgate3/mods/19555?tab=files)
 
-DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a
+Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843
 
 BG3_DATA="E:/El/Games/Steam/steamapps/common/Baldurs Gate 3/Data"
 
