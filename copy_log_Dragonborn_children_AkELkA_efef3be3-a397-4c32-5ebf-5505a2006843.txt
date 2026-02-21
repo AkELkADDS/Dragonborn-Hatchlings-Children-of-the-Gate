@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843 
-   Fri 11/07/2025 22:41:14.74 
+   Sun 02/22/2026  2:23:19.30 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -423,7 +423,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, November 7, 2025 10:41:17 PM
+  Started : Sunday, February 22, 2026 2:23:22 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\
      Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Projects\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\
 
@@ -434,7 +434,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     704	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\meta.lsx100%  
-	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\thumbnail.PNG 36%  100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\thumbnail.PNG100%  
 
 ------------------------------------------------------------------------------
 
@@ -447,7 +447,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           1427132000 Bytes/sec.
    Speed :            81661.148 MegaBytes/min.
-   Ended : Friday, November 7, 2025 10:41:17 PM
+   Ended : Sunday, February 22, 2026 2:23:22 AM
 
  
 [DEBUG] Counting source files 
@@ -473,7 +473,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, November 7, 2025 10:41:19 PM
+  Started : Sunday, February 22, 2026 2:23:24 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\
      Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Editor\Mods\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\
 
@@ -494,9 +494,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           498405421 Bytes/sec.
-   Speed :           28518.986 MegaBytes/min.
-   Ended : Friday, November 7, 2025 10:41:19 PM
+   Speed :           364219346 Bytes/sec.
+   Speed :           20840.798 MegaBytes/min.
+   Ended : Sunday, February 22, 2026 2:23:24 AM
 
  
 [DEBUG] Counting source files 
@@ -522,7 +522,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, November 7, 2025 10:41:20 PM
+  Started : Sunday, February 22, 2026 2:23:26 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\
      Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Mods\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\
 
@@ -546,9 +546,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           1433186000 Bytes/sec.
-   Speed :            82007.560 MegaBytes/min.
-   Ended : Friday, November 7, 2025 10:41:20 PM
+   Speed :           716593000 Bytes/sec.
+   Speed :           41003.780 MegaBytes/min.
+   Ended : Sunday, February 22, 2026 2:23:26 AM
 
  
 [DEBUG] Counting source files 
@@ -574,7 +574,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, November 7, 2025 10:41:22 PM
+  Started : Sunday, February 22, 2026 2:23:28 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\
      Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\
 
@@ -593,7 +593,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    1757	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\RootTemplates\9f1cdc35-96a6-4c09-b5d0-5bba45842f66.lsf100%  
 	    New File  		    2485	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\01ebb4ac-7b37-4898-97b9-6aad127740ab.lsf100%  
 	    New File  		    2754	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\025f8022-2c8b-4fff-9865-7aa788ef1a01.lsf100%  
-	    New File  		    2413	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\047cf4c7-f3fc-89db-a8de-ab8c5424bb98.lsf100%  
+	    New File  		    2449	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\047cf4c7-f3fc-89db-a8de-ab8c5424bb98.lsf100%  
 	    New File  		    2594	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\066e3e0c-523e-4d7f-aca5-700815a184fa.lsf100%  
 	    New File  		    2485	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\09969680-6008-4a7b-a752-89ade7d4d182.lsf100%  
 	    New File  		    2460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\0c3ccdd1-2cb1-4f48-bfc5-f0fbd35a330a.lsf100%  
@@ -699,7 +699,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2564	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\f3027d40-1197-41c3-ad84-f0663ccd5be6.lsf100%  
 	    New File  		   14001	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\f6eaeaee-50bb-1b16-3b8f-6a6ed889dd3b.lsf100%  
 	    New File  		    8173	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\f8d8a9a4-7db2-c7a3-d38f-c94926ae95e0.lsf100%  
-	    New File  		   19314	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\f9c967fa-4642-6364-efb8-0a5012de84b5.lsf100%  
+	    New File  		   19350	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\f9c967fa-4642-6364-efb8-0a5012de84b5.lsf100%  
 	    New File  		   13565	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Content\[PAK]_Dragonborn_children_AkELkA\ff49f364-7ddd-60f1-d69b-577b8c168f08.lsf100%  
 	    New File  		  492672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_NKD_Body_A_EL_1.GR2100%  
 	    New File  		     147	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_NKD_Body_A_EL_1.xml100%  
@@ -785,6 +785,8 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   48884	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Cloth\CHD_DGB_M_CLT_Footwear_Low_A.GR2100%  
 	    New File  		   27912	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Cloth\CHD_DGB_M_CLT_Footwear_Low_B.GR2100%  
 	    New File  		   21100	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Cloth\CHD_DGB_Scarf_A.GR2100%  
+	    New File  		  660292	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Head\DGB_CHD_NKD_Head_D_EL_1.GR2100%  
+	    New File  		     147	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Head\DGB_CHD_NKD_Head_D_EL_1.xml100%  
 	    New File  		  334492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_FA_EL_1.GR2100%  
 	    New File  		     157	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_FA_EL_1.xml100%  
 	    New File  		  634860	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_FB_EL_1.GR2100%  
@@ -807,8 +809,6 @@ SECTION 2: COPY OPERATIONS
 	    New File  		     157	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_ME_EL_1.xml100%  
 	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_MF_EL_1.GR2100%  
 	    New File  		     157	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_MF_EL_1.xml100%  
-	    New File  		  660292	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Head\DGB_CHD_NKD_Head_D_EL_1.GR2100%  
-	    New File  		     147	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Head\DGB_CHD_NKD_Head_D_EL_1.xml100%  
 	    New File  		  139544	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Jaw\DGB_CHD_NKD_Head_CHD_Jaw_FA_EL_1.GR2100%  
 	    New File  		     155	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Jaw\DGB_CHD_NKD_Head_CHD_Jaw_FA_EL_1.xml100%  
 	    New File  		   99312	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Jaw\DGB_CHD_NKD_Head_CHD_Jaw_FB_EL_1.GR2100%  
@@ -877,9 +877,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           176191137 Bytes/sec.
-   Speed :           10081.737 MegaBytes/min.
-   Ended : Friday, November 7, 2025 10:41:22 PM
+   Speed :           106783053 Bytes/sec.
+   Speed :            6110.175 MegaBytes/min.
+   Ended : Sunday, February 22, 2026 2:23:28 AM
 
  
 [DEBUG] Counting source files 
@@ -905,7 +905,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, November 7, 2025 10:41:24 PM
+  Started : Sunday, February 22, 2026 2:23:30 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\
      Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\
 
@@ -915,40 +915,6 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_F_NKD_Body_A_EL_1_CTLO.DDS100%  
-	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_F_NKD_Body_A_EL_1_CTLO_DotsA.dds100%  
-	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_F_NKD_Body_A_EL_1_CTLO_DotsB.dds100%  
-	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_F_NKD_Body_A_EL_1_CTLO_StripesA.dds100%  
-	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_F_NKD_Body_A_EL_1_DB_DMSK.DDS100%  
-	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_F_NKD_Body_A_EL_1_DMSK.DDS100%  
-	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_F_NKD_Body_A_EL_1_HMVY.DDS100%  
-	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_F_NKD_Body_A_EL_1_MSK.DDS100%  
-	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_F_NKD_Body_A_EL_1_NM.DDS100%  
-	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_M_NKD_Body_A_EL_1_CTLO.DDS100%  
-	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_M_NKD_Body_A_EL_1_CTLO_DotsA.DDS100%  
-	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_M_NKD_Body_A_EL_1_CTLO_DotsB.DDS100%  
-	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_M_NKD_Body_A_EL_1_CTLO_StripesA.DDS100%  
-	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_M_NKD_Body_A_EL_1_DB_DMSK.DDS100%  
-	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_M_NKD_Body_A_EL_1_DMSK.DDS100%  
-	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_M_NKD_Body_A_EL_1_HMVY.DDS100%  
-	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_M_NKD_Body_A_EL_1_MSK.DDS100%  
-	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_M_NKD_Body_A_EL_1_NM.DDS100%  
-	    New File  		  105284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_NKD_Body_A_Tail_EL_1.GR2100%  
-	    New File  		  167216	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_NKD_Body_B_Tail_EL_1.GR2100%  
-	    New File  		  141588	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_NKD_Body_C_Tail_EL_1.GR2100%  
-	    New File  		  492672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_NKD_Body_FA_EL_1.GR2100%  
-	    New File  		  492672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_NKD_Body_MA_EL_1.GR2100%  
-	    New File  		  335544	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_FA_EL_1.GR2100%  
-	    New File  		  634964	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_FB_EL_1.GR2100%  
-	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_FC_EL_1.GR2100%  
-	    New File  		  471788	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_FD_EL_1.GR2100%  
-	    New File  		  843404	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_FE_EL_1.GR2100%  
-	    New File  		  280712	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_MA_EL_1.GR2100%  
-	    New File  		  265996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_MB_EL_1.GR2100%  
-	    New File  		  392704	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_MC_EL_1.GR2100%  
-	    New File  		  852644	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_MD_EL_1.GR2100%  
-	    New File  		  596412	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_ME_EL_1.GR2100%  
-	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_MF_EL_1.GR2100%  
 	    New File  		  162584	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Cloth\CHD_DGB_CLT_Bard_Shirt_A.GR2100%  
 	    New File  		   67524	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Cloth\CHD_DGB_CLT_Boy_Legwrap_A.GR2100%  
 	    New File  		  107404	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Cloth\CHD_DGB_CLT_Footwear_High_A.GR2100%  
@@ -986,6 +952,40 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   51228	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Cloth\CHD_DGB_CLT_Skirt_Belt_A.GR2100%  
 	    New File  		   47888	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Cloth\CHD_DGB_CLT_Skirt_Belt_B.GR2100%  
 	    New File  		  103844	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Cloth\CHD_DGB_CLT_Tunic_C.GR2100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_F_NKD_Body_A_EL_1_CTLO.DDS 28%   70%  100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_F_NKD_Body_A_EL_1_CTLO_DotsA.dds100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_F_NKD_Body_A_EL_1_CTLO_DotsB.dds100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_F_NKD_Body_A_EL_1_CTLO_StripesA.dds100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_F_NKD_Body_A_EL_1_DB_DMSK.DDS 84%  100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_F_NKD_Body_A_EL_1_DMSK.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_F_NKD_Body_A_EL_1_HMVY.DDS 98%  100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_F_NKD_Body_A_EL_1_MSK.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_F_NKD_Body_A_EL_1_NM.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_M_NKD_Body_A_EL_1_CTLO.DDS 84%  100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_M_NKD_Body_A_EL_1_CTLO_DotsA.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_M_NKD_Body_A_EL_1_CTLO_DotsB.DDS 98%  100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_M_NKD_Body_A_EL_1_CTLO_StripesA.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_M_NKD_Body_A_EL_1_DB_DMSK.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_M_NKD_Body_A_EL_1_DMSK.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_M_NKD_Body_A_EL_1_HMVY.DDS 70%  100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_M_NKD_Body_A_EL_1_MSK.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_M_NKD_Body_A_EL_1_NM.DDS100%  
+	    New File  		  105284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_NKD_Body_A_Tail_EL_1.GR2100%  
+	    New File  		  167216	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_NKD_Body_B_Tail_EL_1.GR2100%  
+	    New File  		  141588	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_NKD_Body_C_Tail_EL_1.GR2100%  
+	    New File  		  492672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_NKD_Body_FA_EL_1.GR2100%  
+	    New File  		  492672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Body\DGB_CHD_NKD_Body_MA_EL_1.GR2100%  
+	    New File  		  335544	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_FA_EL_1.GR2100%  
+	    New File  		  634964	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_FB_EL_1.GR2100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_FC_EL_1.GR2100%  
+	    New File  		  471788	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_FD_EL_1.GR2100%  
+	    New File  		  843404	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_FE_EL_1.GR2100%  
+	    New File  		  280712	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_MA_EL_1.GR2100%  
+	    New File  		  265996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_MB_EL_1.GR2100%  
+	    New File  		  392704	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_MC_EL_1.GR2100%  
+	    New File  		  852644	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_MD_EL_1.GR2100%  
+	    New File  		  596412	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_ME_EL_1.GR2100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Crest\DGB_CHD_NKD_Head_CHD_Top_MF_EL_1.GR2100%  
 	    New File  		  661636	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Head\DGB_CHD_NKD_Head_D_EL_1.GR2100%  
 	    New File  		  139364	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Jaw\DGB_CHD_NKD_Head_CHD_Jaw_FA_EL_1.GR2100%  
 	    New File  		   99244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\Jaw\DGB_CHD_NKD_Head_CHD_Jaw_FB_EL_1.GR2100%  
@@ -995,7 +995,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   43056	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\SK\DGB_CHD_NKD_Head_D_Base.GR2100%  
 	    New File  		   43036	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\DGB_CHD\SK\DGB_CHD_NKD_Head_D_Base_02.GR2100%  
 	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Assets\Characters\_Models\_SharedAssets\SHARED_Atlas\Resources\Skin_Atlas_Body_DGB_Makeup_A_MSK2_CHD_EL_1.DDS100%  
-	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Assets\Characters\_Models\_SharedAssets\SHARED_Atlas\Resources\Skin_Atlas_Head_DGB_Makeup_A_MSK2_CHD_EL_1.DDS 93%  100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Dragonborn_children_AkELkA_efef3be3-a397-4c32-5ebf-5505a2006843\Assets\Characters\_Models\_SharedAssets\SHARED_Atlas\Resources\Skin_Atlas_Head_DGB_Makeup_A_MSK2_CHD_EL_1.DDS100%  
 
 ------------------------------------------------------------------------------
 
@@ -1003,12 +1003,12 @@ SECTION 2: COPY OPERATIONS
     Dirs :        14        14         1         0         0         0
    Files :        81        81         0         0         0         0
    Bytes :  354.72 m  354.72 m         0         0         0         0
-   Times :   0:00:01   0:00:00                       0:00:00   0:00:00
+   Times :   0:00:09   0:00:01                       0:00:00   0:00:00
 
 
-   Speed :           1110310292 Bytes/sec.
-   Speed :            63532.464 MegaBytes/min.
-   Ended : Friday, November 7, 2025 10:41:24 PM
+   Speed :           234671260 Bytes/sec.
+   Speed :           13427.997 MegaBytes/min.
+   Ended : Sunday, February 22, 2026 2:23:32 AM
 
  
 [DEBUG] Counting source files 
